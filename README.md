@@ -1,0 +1,1 @@
+# djangoPrihect12
