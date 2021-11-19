@@ -1,0 +1,12 @@
+body{
+background-image:url(https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg);
+background-repeat:no repeat;
+background-size:cover;
+}
+h1
+{
+text-align:center;
+color:blue;
+font-size:100px;
+font-family:candara;
+}
